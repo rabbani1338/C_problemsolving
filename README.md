@@ -1,9 +1,6 @@
 # C_problemsolving
 Write a program in C to find the maximum and minimum elements in an linked list.
 
-
-
-
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
